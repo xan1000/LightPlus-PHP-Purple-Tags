@@ -2,9 +2,9 @@
 
 A `color theme` for `Visual Studio Code` which includes a simple addition to the default Light+ theme to make PHP tags purple.
 
-The extension can be found here:
+This extension can be found here:
 
-<---link--->
+https://marketplace.visualstudio.com/items?itemName=p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq.lightplus-php-purple-tags
 
 ## Light+ PHP Purple Tags theme
 
