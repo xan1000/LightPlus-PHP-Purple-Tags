@@ -8,7 +8,7 @@ The extension can be found here:
 
 ## Light+ PHP Purple Tags Theme:
 
-<--- screenshot --->
+![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2BPhpPurpleTags.png)
 
 The issue with the default Light+ theme for PHP tags is they use the same colour as HTML tags. Thus when mixing HTML markup & PHP code it can be hard to tell them apart.
 
@@ -16,7 +16,7 @@ Contrast the code snippet above with the default Light+ theme.
 
 ## Light+ Theme:
 
-<--- screenshot --->
+![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2B.png)
 
 ## PHP Purple Tags without installing / using color theme
 
