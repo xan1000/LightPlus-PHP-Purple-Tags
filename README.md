@@ -18,7 +18,7 @@ Contrast the code snippet above with the default Light+ theme.
 
 ![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2B.png)
 
-## PHP Purple Tags without installing / using color theme
+## Making PHP tags purple without this theme
 
 You can include the rule to style PHP tags in your user settings which will then be applied to all themes.
 
