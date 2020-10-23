@@ -8,7 +8,7 @@ https://marketplace.visualstudio.com/items?itemName=p26frqxxfmwrzekd6c6fcty5kipj
 
 ## Light+ PHP Purple Tags theme
 
-![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2BPhpPurpleTags.png)
+![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2B-PHP-Purple-Tags.png)
 
 The issue with the default Light+ theme for PHP tags is they use the same colour as HTML tags. Thus when mixing HTML markup & PHP code it can be hard to tell them apart.
 
