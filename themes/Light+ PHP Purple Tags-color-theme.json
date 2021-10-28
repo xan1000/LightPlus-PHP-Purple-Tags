@@ -584,6 +584,7 @@
 				"foreground": "#6600CC"
 			}
 		},
+		// The remaining styles are all from the default Light+ color theme.
 		{
 			"scope": [
 				"meta.embedded",
