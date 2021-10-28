@@ -3,7 +3,7 @@
     "displayName": "Light+ PHP Purple Tags",
     "description": "Simple addition to the default Light+ theme which makes PHP tags purple.",
     "icon": "icon.png",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "license": "Apache-2.0",
     "publisher": "p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq",
     "repository": {
@@ -12,7 +12,7 @@
     },
     "homepage": "https://github.com/xan1000/LightPlus-PHP-Purple-Tags",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.61.2"
     },
     "categories": [
         "Themes"
