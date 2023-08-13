@@ -34,7 +34,7 @@ To change the PHP syntax highlighting colors, use the following `editor.tokenCol
                     "punctuation.section.embedded.end.php"
                 ],
                 "settings": {
-                    "foreground": "#6600cc"
+                    "foreground": "#6600CC"
                 }
             },
         ]
